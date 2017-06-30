@@ -1,1 +1,4 @@
 # Texshade
+
+# License
+Unlicense.
